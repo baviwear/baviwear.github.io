@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://baviwear.github.io/sitemap.xml

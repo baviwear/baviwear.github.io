@@ -1,4 +1,2 @@
-// ضع هنا رابط Google Apps Script بعد ما تنشره (بينتهي بـ /exec) بين علامتي التنصيص.
-// مثال: window.BAVI_API = 'https://script.google.com/macros/s/XXXXXXXX/exec';
-// لو سيبته فاضي، الموقع بيشتغل بنظام واتساب بس.
-window.BAVI_API = '';
+   window.BAVI_API = 'https://script.google.com/macros/s/AKfycbzV3HIW8r7B3xGcIfXm-KkkAgcNNQ2-x_3refnnpGSCIyihiMkTpPsXdd7Uh8SXGXsy/exec';
+   window.BAVI_PAY = { instapay: '', fawry: '' };

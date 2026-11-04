@@ -1,2 +1,8 @@
-   window.BAVI_API = 'https://script.google.com/macros/s/AKfycbzV3HIW8r7B3xGcIfXm-KkkAgcNNQ2-x_3refnnpGSCIyihiMkTpPsXdd7Uh8SXGXsy/exec';
-   window.BAVI_PAY = { instapay: '', fawry: '' };
+// ===== إعدادات الموقع (افتح الملف بأي محرر نصوص) =====
+// 1) رابط الشيت (Google Apps Script): ضعه بين علامتي التنصيص بعد ما تنشره. بينتهي بـ /exec
+//    لو سيبته فاضي، الموقع بيشتغل بنظام واتساب بس.
+window.BAVI_API = '';
+
+// 2) بيانات الدفع. فودافون كاش متسجل في الموقع. اكتب هنا بيانات إنستا باي وفوري.
+//    لو سيبت واحدة فاضية، العميل هيشوف: "هنبعتلك بيانات الدفع على واتساب".
+window.BAVI_PAY = { instapay: '', fawry: '' };
